@@ -11,6 +11,6 @@ Revenue operator turned builder. I've built sales, marketing, CS and RevOps func
 
 **Why most of my work isn't here.** It lives in private repositories. I'm happy to walk through the architecture, the governance model and a live demo.
 
-**Background:** CRO at EasyDo (ARR $100K → $2.5M in 36 months), Director of Sales & BD at Commbox (ARR $7M → $12M), VP Sales at RedFalcon.AI, VP BD at Olistics, founder and CEO of Multiverse (ad-tech).
+**Background:** CRO and revenue leader at B2B SaaS companies: grew one from $100K to $2.5M ARR in 36 months, and another from $7M to $12M. Earlier, founder and CEO of an ad-tech company.
 
 Tel Aviv
